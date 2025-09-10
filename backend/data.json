@@ -1,0 +1,355 @@
+[
+  {
+    "Cluster": { "Platform": "Android", "LocalizationCode": "ru", "StoreCode": "RUS", "AppId": "bba-ckg" },
+    "AppDynamicData": {
+      "UserId": null,
+      "AdWaterfall": {
+        "Rewarded": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_REWARDED_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 5242880, "Url": "https://youtu.be/-uT2xF8nFg0" },
+                { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 102400, "Url": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s96-rw" }
+              ],
+              "TextData": { "Title": "Демо-игра" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+            }
+          }
+        ],
+        "Banner": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_BANNER_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 204800, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+              "TextData": { "Title": "Баннер демо" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+            }
+          }
+        ],
+        "Interstitial": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_INTER_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 1048576, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+              "TextData": { "Title": "Интерстишл демо" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Cluster": { "Platform": "iOS", "LocalizationCode": "ru", "StoreCode": "RUS", "AppId": "bba-ckg" },
+    "AppDynamicData": {
+      "UserId": null,
+      "AdWaterfall": {
+        "Rewarded": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_REWARDED_X_IOS",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 4194304, "Url": "https://youtu.be/-uT2xF8nFg0" },
+                { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 153600, "Url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/14/c5/6214c563-eb00-0f93-e64b-c819c4080231/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" }
+              ],
+              "TextData": { "Title": "Демо-игра iOS" },
+              "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+            }
+          }
+        ],
+        "Banner": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_BANNER_X_IOS",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 256000, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+              "TextData": { "Title": "Баннер демо iOS" },
+              "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+            }
+          }
+        ],
+        "Interstitial": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_INTER_X_IOS",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 1572864, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+              "TextData": { "Title": "Интерстишл демо iOS" },
+              "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Cluster": { "Platform": "Android", "LocalizationCode": "ger", "StoreCode": "GER", "AppId": "bba-ckg" },
+    "AppDynamicData": {
+      "UserId": null,
+      "AdWaterfall": {
+        "Rewarded": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_REWARDED_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 5242880, "Url": "https://youtu.be/-uT2xF8nFg0" },
+                { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 102400, "Url": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s96-rw" }
+              ],
+              "TextData": { "Title": "Демо-игра" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+            }
+          }
+        ],
+        "Banner": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_BANNER_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 307200, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+              "TextData": { "Title": "Banner Demo" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+            }
+          }
+        ],
+        "Interstitial": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_INTER_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 2097152, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+              "TextData": { "Title": "Interstitial Demo" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Cluster": { "Platform": "iOS", "LocalizationCode": "ger", "StoreCode": "GER", "AppId": "bba-ckg" },
+    "AppDynamicData": {
+      "UserId": null,
+      "AdWaterfall": {
+        "Rewarded": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_REWARDED_X_IOS",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 7340032, "Url": "https://youtu.be/-uT2xF8nFg0" },
+                { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 143360, "Url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/14/c5/6214c563-eb00-0f93-e64b-c819c4080231/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" }
+              ],
+              "TextData": { "Title": "Demo-Spiel iOS" },
+              "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+            }
+          }
+        ],
+        "Banner": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_BANNER_X_IOS",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 358400, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+              "TextData": { "Title": "Banner Demo iOS" },
+              "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+            }
+          }
+        ],
+        "Interstitial": [
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_INTER_X_IOS",
+            "CrosspromoData": {
+              "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 2621440, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+              "TextData": { "Title": "Interstitial Demo iOS" },
+              "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+  "Cluster": { "Platform": "Android", "LocalizationCode": "eng", "StoreCode": "ENG", "AppId": "bba-ckg" },
+  "AppDynamicData": {
+    "UserId": null,
+    "AdWaterfall": {
+      "Rewarded": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_REWARDED_X",
+          "CrosspromoData": {
+            "CrosspromoFiles": [
+              { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 5242880, "Url": "https://youtu.be/-uT2xF8nFg0" },
+                { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 102400, "Url": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s96-rw" }
+              ],
+              "TextData": { "Title": "Демо-игра" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+          }
+        }
+      ],
+      "Banner": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_BANNER_X",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 204800, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+            "TextData": { "Title": "Banner Demo" },
+            "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+          }
+        }
+      ],
+      "Interstitial": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_INTER_X",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 1048576, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+            "TextData": { "Title": "Interstitial Demo" },
+            "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "Cluster": { "Platform": "iOS", "LocalizationCode": "eng", "StoreCode": "ENG", "AppId": "bba-ckg" },
+  "AppDynamicData": {
+    "UserId": null,
+    "AdWaterfall": {
+      "Rewarded": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_REWARDED_X_IOS",
+          "CrosspromoData": {
+            "CrosspromoFiles": [
+              { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 4194304, "Url": "https://youtu.be/-uT2xF8nFg0" },
+              { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 153600, "Url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/14/c5/6214c563-eb00-0f93-e64b-c819c4080231/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" }
+            ],
+            "TextData": { "Title": "Demo Game iOS" },
+            "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+          }
+        }
+      ],
+      "Banner": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_BANNER_X_IOS",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 256000, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+            "TextData": { "Title": "Banner Demo iOS" },
+            "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+          }
+        }
+      ],
+      "Interstitial": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_INTER_X_IOS",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 1572864, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+            "TextData": { "Title": "Interstitial Demo iOS" },
+            "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "Cluster": { "Platform": "Android", "LocalizationCode": "french", "StoreCode": "FRE", "AppId": "bba-ckg" },
+  "AppDynamicData": {
+    "UserId": null,
+    "AdWaterfall": {
+      "Rewarded": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_REWARDED_X",
+          "CrosspromoData": {
+            "CrosspromoFiles": [
+              { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 5242880, "Url": "https://youtu.be/-uT2xF8nFg0" },
+                { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 102400, "Url": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s96-rw" }
+              ],
+              "TextData": { "Title": "Демо-игра" },
+              "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+          }
+        }
+      ],
+      "Banner": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_BANNER_X",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 204800, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+            "TextData": { "Title": "Bannière Démo" },
+            "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+          }
+        }
+      ],
+      "Interstitial": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_INTER_X",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 1048576, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+            "TextData": { "Title": "Interstitiel Démo" },
+            "Url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ru"
+          }
+        }
+      ]
+    }
+  }
+},
+
+{
+  "Cluster": { "Platform": "iOS", "LocalizationCode": "french", "StoreCode": "FRE", "AppId": "bba-ckg" },
+  "AppDynamicData": {
+    "UserId": null,
+    "AdWaterfall": {
+      "Rewarded": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_REWARDED_X_IOS",
+          "CrosspromoData": {
+            "CrosspromoFiles": [
+              { "AdType": "Rewarded", "AdFormat": "Video", "FileSize": 4194304, "Url": "https://youtu.be/-uT2xF8nFg0" },
+              { "AdType": "IconBig", "AdFormat": "Image", "FileSize": 153600, "Url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/14/c5/6214c563-eb00-0f93-e64b-c819c4080231/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" }
+            ],
+            "TextData": { "Title": "Jeu Démo iOS" },
+            "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+          }
+        }
+      ],
+      "Banner": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_BANNER_X_IOS",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Banner", "AdFormat": "Image", "FileSize": 256000, "Url": "https://avatars.mds.yandex.net/i?id=da9911549a206121d834cd145923054a_l-5228562-images-thumbs&n=13" }],
+            "TextData": { "Title": "Bannière Démo iOS" },
+            "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+          }
+        }
+      ],
+      "Interstitial": [
+        {
+          "Network": "Crosspromo",
+          "ZoneId": "REDACTED_INTER_X_IOS",
+          "CrosspromoData": {
+            "CrosspromoFiles": [{ "AdType": "Interstitial", "AdFormat": "Image", "FileSize": 1572864, "Url": "https://steamuserimages-a.akamaihd.net/ugc/1833529803188825408/43EC76FAC79F47A8B84873008B660F286C14C428/?imw=512&amp;imh=146&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" }],
+            "TextData": { "Title": "Interstitiel Démo iOS" },
+            "Url": "https://apps.apple.com/us/app/terraria/id640364616"
+          }
+        }
+      ]
+    }
+  }
+}
+]
